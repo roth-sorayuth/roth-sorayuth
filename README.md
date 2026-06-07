@@ -1,4 +1,4 @@
-# Hi there, I'm Roth Sorayuth 👋
+# Hi there, I'm Roth Sorayuth
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer+in+Progress;Networking+%26+Cybersecurity+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -127,13 +127,6 @@ Databases            ███░░░░░░░ 30%
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roth-sorayuth&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 🌱 Currently Exploring
 
