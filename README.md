@@ -1,153 +1,89 @@
-# Hi there, I'm Roth Sorayuth
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer+in+Progress;Networking+%26+Cybersecurity+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Hi,%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Builder%20of%20Things&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
 
-<h3 align="center">🎓 Software Engineering Student | 💻 Web Developer | 🚀 Lifelong Learner</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Build+things+that+matter.;Code+is+poetry+with+a+purpose.;Turning+ideas+into+interfaces." alt="Typing SVG" />
+</a>
 
----
+</div>
 
-## 🚀 About Me
+<br/>
 
-```yaml
-Name: Roth Sorayuth
-Education: Software Engineering Student
-University: Cambodia Academy of Digital Technology (CADT)
+## About Me
 
-Current Focus:
-  - Full-Stack Development
-  - Software Engineering
-  - Data Structures & Algorithms
-  - Networking Fundamentals
+I'm a developer focused on building clean, functional, and user-centered web applications. I enjoy working across the stack — from crafting intuitive interfaces to designing the systems that power them — and I care a lot about writing code that's readable, maintainable, and just *works*.
 
-Interests:
-  - Web Development
-  - AI-Assisted Software Development
-  - Cybersecurity
-  - System Design
-  - Open Source
-```
+- 🔭 Currently building: **[Your Current Project]**
+- 🌱 Currently learning: **[New Skill / Framework]**
+- 💬 Ask me about: **React, TypeScript, System Design**
+- 📫 Reach me at: **your.email@example.com**
+- ⚡ Fun fact: **[Something interesting about you]**
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,js,html,css" />
-</p>
+**Languages**
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
+**Frameworks & Libraries**
 
-### Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+**Tools & Platforms**
 
-### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+**Databases**
 
----
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
 
-## 📌 Featured Projects
+</div>
 
-### 🧟 Zombie Survival Game
+<br/>
 
-A console-based game written in C featuring:
+## Featured Project
 
-* Multiple difficulty levels
-* Zombie AI movement
-* Save & Load system
-* Supply collection mechanics
-* Struct-based game architecture
+<div align="center">
 
-### 📄 AI-Powered CV Builder
+### 🚀 [Project Name](https://github.com/your-username/project-repo)
 
-Helping first-time job seekers create professional CVs through:
+**A short, punchy description of what the project does and the problem it solves.**
 
-* Guided workflows
-* Modern templates
-* User-friendly UI/UX
-* AI-assisted content suggestions
+Built with **React**, **TypeScript**, **Tailwind CSS**, and **Node.js**, this project features [1–2 standout capabilities — e.g. real-time collaboration, an AI-powered recommendation engine, a custom animation system]. What makes it stand out is [the clever technical detail or design decision that sets it apart].
 
-### 🛡️ Gaming Scam Reporting Platform
+[![Repo](https://img.shields.io/badge/View-Repository-6366f1?style=for-the-badge&logo=github)](https://github.com/your-username/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0f172a?style=for-the-badge&logo=vercel)](https://your-project-demo.com)
 
-A platform designed to:
+</div>
 
-* Report gaming scams
-* Upload evidence
-* Verify scam cases
-* Raise community awareness
+<br/>
 
----
+## GitHub Stats
 
-## 📈 Current Goals
+<div align="center">
 
-* 🌐 Become a Full-Stack Developer
-* ⚛️ Master React Ecosystem
-* 🗄️ Learn Database Design & SQL
-* 📚 Strengthen DSA Knowledge
-* 🚀 Build Production-Level Projects
-* 🎯 Achieve a High IELTS Score
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="60%"/>
 
-## 📚 Learning Progress
+</div>
 
-```text
-Software Engineering █████████░ 90%
-JavaScript           ████████░░ 80%
-Node.js              ███████░░░ 70%
-React                ██████░░░░ 60%
-Databases            ███░░░░░░░ 30%
-```
+<br/>
 
----
+<div align="center">
 
-## 📊 GitHub Statistics
+### Connect with me
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roth-sorayuth&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roth-sorayuth&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roth-sorayuth&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
 
----
-
-
-## 🌱 Currently Exploring
-
-* React Development
-* REST APIs
-* Node.js Applications
-* Software Architecture
-* Database Systems
-
----
-
-## 💡 Favorite Quote
-
-> "The best way to learn software engineering is by building real projects and improving them continuously."
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roth-sorayuth&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
-<h3 align="center">
-Thanks for visiting my profile! 🚀
-</h3>
+</div>
